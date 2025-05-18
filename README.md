@@ -6,7 +6,7 @@ Welcome to SecureTech Solutions — your partner in cybersecurity.
 
 This is the official GitHub Pages website for SecureTech Solutions.
 
-- **Live Site:** [https://your-username.github.io/securetech-site/](https://your-username.github.io/securetech-site/)
+- **Live Site:** https://anas570.github.io/Securetech-solution.com/
 - **Contact:** anaskhanxada1@gmail.com | +92 314 4046824
 
 ## Services
