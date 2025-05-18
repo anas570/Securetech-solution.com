@@ -1,4 +1,3 @@
-
 # SecureTech Solutions
 
 Welcome to SecureTech Solutions — your partner in cybersecurity.
