@@ -2,6 +2,10 @@
 
 Welcome to SecureTech Solutions — your partner in cybersecurity.
 
+## Description
+
+Responsive landing page and service layout for a cybersecurity or tech consulting firm, built using HTML, CSS, and modern UI practices. Includes hero section, features, services, and contact CTA.
+
 ## Website
 
 This is the official GitHub Pages website for SecureTech Solutions.
